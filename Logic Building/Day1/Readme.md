@@ -87,6 +87,23 @@ Java Programming: Logic building
   List of files: dir
 
 # Home work:
+Ques: Identify valid and invalid statements for the following :
+public static void main(String[] args)  
+public static void main(String []args)  
+public static void main(String args[])  
+public static void main(String... args)  
+static public void main(String[] args) 
+public void main(String[] args)  
+static void main(String[] args)  
+public void static main(String[] args)  
+abstract public static void main(String[] args) 
+public static final void main(String[] args)  
+final public static void main(String[] args)  
+final strictfp public static void main(String[] args)  
+
+
+# Assignment
+
 
 ![image](https://user-images.githubusercontent.com/72081819/188829812-e9adfb4a-a151-412c-bbcf-ebf10f7f2239.png)
 
