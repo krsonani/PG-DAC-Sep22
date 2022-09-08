@@ -44,3 +44,11 @@ Date: 08-09-2022
     pi=3.14f;
     
     d=20.345667766;
+    
+# Home-Work
+
+	1.Write a Java program to check whether a number is even or odd?
+	
+	2.write a program to check whether a number is prime number or not?
+	
+	3.write a program to check whether a number is armstrong number or not?
