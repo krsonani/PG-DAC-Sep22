@@ -10,27 +10,37 @@ Date: 08-09-2022
     -Date
 
 
-Class: 
+# Class: 
 -The class is a group of similar entities.
 
 		
-Object:
+# Object:
 -An object can be defined as an instance of a class	
 
-Variable:
+# Variable:
 ---------
+
   -userdefined names
+  
   -resrved memory
+  
   -vary+able	
 
 1. Variable declaration
+
     int a;
+    
     int a,b,c;
+    
     float pi;
+    
     double d;
+    
     char a;
 
 
 2. Variable initialization
+
     pi=3.14f;
+    
     d=20.345667766;
