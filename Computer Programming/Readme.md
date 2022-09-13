@@ -4,6 +4,17 @@
       Q1: List down the important features of Java 1.8.
 
       Q2: Differntiate between C, C++ & Java.
+      
+      -----------------------------------------
+	
+	Q1. Study JVM Architecture.
+	
+	Q2. Understand the relatonship between JDK, JRE & JVM.	
+	
+	Q3. Study the Features of Java.
+	
+	Q4. Study and prepare real life examples for OOPS pillar.
+		
 	
 
 
@@ -40,3 +51,40 @@
       14. What is Java Virtual Machine and how it is considered in context of Java’s platform independent feature?
 
       15. List two Java IDE’s?
+      
+      
+ # Day 2
+ 
+	1. Why Java is called as “Platform” ?
+	
+	2. Is Java Pure-Object oriented Language ?
+	
+	3. Which version of java have u learned? Name some of the new features added to it.
+	
+	4. What gives Java its 'write once and run anywhere' nature?
+	
+	5. Difference between path and classpath.
+	
+	6. What is the signature of main function in java ?
+	
+	7. What is the difference between  JDK and JRE?
+	
+	8. What is JVM ? What it does?
+	
+	9. Why JVM is called as “virtual machine”?
+	
+	10. What are the main components of JVM? Explain them. Or Explain JVM Architecture.
+	
+	11. What is the difference between  Java compiler ( javac ) and JIT ?
+	
+	12. Is Empty .java file name a valid source file name?
+	
+	13. Is JRE different for different Platforms ?
+	
+	14. Difference between C++ and java in terms of object creation.
+	
+	15. Who invokes main() function ?
+	
+	16. What is  .class file known as ?
+	
+	17. Difference between  C++ pointer and Java reference.
