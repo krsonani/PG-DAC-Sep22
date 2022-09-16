@@ -14,8 +14,8 @@
 	Q3. Study the Features of Java.
 	
 	Q4. Study and prepare real life examples for OOPS pillar.
-			
-    <hr>  
+		
+<hr>  
       
         Q1. WAP to apply primitive upcasting and downcasting.
 	
@@ -35,7 +35,7 @@
 		
 		Ternary : ?:
 		
-	<hr>
+<hr>
       
         Q1.Q.Same program with SOP statements.
 	
