@@ -1,11 +1,11 @@
 
 # Homework :
 
-      Q1: List down the important features of Java 1.8.
+        Q1. List down the important features of Java 1.8.
 
-      Q2: Differntiate between C, C++ & Java.
+        Q2. Differntiate between C, C++ & Java.
       
-      -----------------------------------------
+   <hr>
 	
 	Q1. Study JVM Architecture.
 	
@@ -14,9 +14,77 @@
 	Q3. Study the Features of Java.
 	
 	Q4. Study and prepare real life examples for OOPS pillar.
-		
+			
+    <hr>  
+      
+        Q1. WAP to apply primitive upcasting and downcasting.
 	
+	Q2. WAP to work with all operators.
 
+		Uniary: ++i, i++
+		
+		Arithmetic : +,-*,/,%
+		
+		Logical : &&, ||,!
+		
+		Assignment : =, +=, -=, *=, /=,%=
+		
+		Relational : < > <= >= ==, !=
+		
+		Bitwise :  << >>, <<<, >>>
+		
+		Ternary : ?:
+		
+	<hr>
+      
+        Q1.Q.Same program with SOP statements.
+	
+	Q2.WAP to identify vowel.:{a,e,i,o,u}
+	
+	Q3.WAP to work with enum week dataset.:{Mon, Tue, Wed, Thur, Fri, Sat, Sun}
+	
+	Q4.WAP to accept input in int, float, char, String
+	
+		- case values : 1,2,3,4,5,6,7
+		
+		- case values : 1.1, 2.2, 3.3,..7.7
+		
+		- case values : M,T,W, t, F S,s
+		
+		- case values : Monday, Tuesday....Sunday
+		
+	Q5.Result Evaluation
+		>85:Dist
+		
+		60 to 85: First
+		
+		50 to 60: Second
+		
+		40 to 50: Third
+		
+		<40 : Fail
+		
+	Q6.WAP for building a class "Book",Data members, methods
+
+
+		class Book{
+		//DM:
+
+		//function:
+
+		}
+
+			1.Book b1 = new Book();
+
+			2.Book b2 = new Book();
+
+			3.b3=new Book();
+
+			4.b2=b3;
+
+			5.Book b1 = new Book();
+			
+<hr>			
 
 # Interview Questions
 
